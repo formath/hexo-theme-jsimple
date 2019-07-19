@@ -1,13 +1,13 @@
 # site name
-site_name: 说IT
-short_name: 说
+site_name: J.P.Liu's Blog
+short_name: Blog
 
 # Master info. It won't work if the one from (author|authorLink|avatar|authorDesc) be written in post.md
 webmaster:
-  name: 纠结伦
+  name: J.P.Liu's Blog
   avatar: /images/favicon.png
-  home: https://shuoit.net
-  desc: 一个搬🧱的劳斯基😁️️
+  home: http://www.mathmach.com
+  desc: 程序员
 
 # CSP Mode, true means #Content-Security-Policy = upgrade-insecure-requests# in meat tag
 csp_enable: false
@@ -31,15 +31,15 @@ sticky_top:
   enable: true
 
 # your site build time or domain buy time
-site_building_time: 01/20/2018
+site_building_time: 06/08/2011
 
 # Top navigate menu name
 ## Notice:
 ## Name order decide show index.The name also called category alias,so you must set category alias before start server.
 ## BTW,'category_map' and 'tag_map' field in site '_config.yml' file must one to one correspondence with menus below.
 menu:
-   技术: tech-notes
-   人文: humanities
+   技术: tech
+   生活: life
    其他: others
 
 # Customize left navigation menus. faName is FontAwesome style name
@@ -50,15 +50,15 @@ left_nav_menus:
 
 
 # cover info config
-cover_title: 用代码摇滚这个世界
-cover_description: 一个关注技术与人文的IT博客
+cover_title: 就是个程序员
+cover_description: 就是个程序员啊
 
 # sns url
 sns:
-  telegram: http://t.me/kunyintang
-  instagram: https://www.instagram.com/mtangsir/
-  twitter: https://twitter.com/tangkunyin
-  github: https://github.com/tangkunyin
+  telegram: 
+  instagram: 
+  twitter: 
+  github: https://github.com/formath
 
 # article declare. default content in languages
 post_declare: true
@@ -76,7 +76,7 @@ local_search:
 
 ## Analytics setting. Google default
 analytics:
-  enable: false
+  enable: true
   google_analytics_id:
 
 ## Google AdSense.
@@ -96,16 +96,16 @@ adsense:
 ##                  | Gitment（Introduction: https://imsun.net/posts/gitment-introduction/）
 ##                  | gitalk  (Official website: https://gitalk.github.io/)
 comments:
-  enable: false
+  enable: true
   disqus_shortname:
   gitment:
-    repo:
-    githubID:
-    ClientID:
-    ClientSecret:
+    repo: gitment-comments
+    githubID: formath
+    ClientID: 8a4c0293487dce64e3ec
+    ClientSecret: ab8ff650582d6f3320ac6258b16ac5ab12a286c8
     lazy: true
   gitalk:
-    on: true
+    on: false
     owner: xx
     repo: xx.github.io
     admin: ['xxx']
@@ -120,4 +120,4 @@ mathjax:
    enable: true
 
 ## Baidu ziyuan auto-commit. see https://ziyuan.baidu.com/
-   baidu_auto_push: false
+   baidu_auto_push: true
