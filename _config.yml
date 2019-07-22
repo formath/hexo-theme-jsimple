@@ -41,6 +41,7 @@ menu:
    技术: tech
    生活: life
    其他: others
+   关于: about
 
 # Customize left navigation menus. faName is FontAwesome style name
 left_nav_menus:
