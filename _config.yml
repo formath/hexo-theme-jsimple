@@ -98,8 +98,8 @@ comments:
   gitment:
     repo: gitment-comments
     githubID: formath
-    ClientID: 8a4c0293487dce64e3ec
-    ClientSecret: ab8ff650582d6f3320ac6258b16ac5ab12a286c8
+    ClientID: 638443fc1ea30f127294
+    ClientSecret: c953279208fec4497782e9a80c6d43d7dfdae12a
     lazy: true
   gitalk:
     on: false
