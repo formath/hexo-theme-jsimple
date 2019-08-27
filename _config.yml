@@ -5,7 +5,7 @@ short_name: J.P.Liu
 # Master info. It won't work if the one from (author|authorLink|avatar|authorDesc) be written in post.md
 webmaster:
   name: formath
-  avatar: /images/favicon.png
+  avatar: /images/6040127.jpeg
   home: https://www.mathmach.com
   desc: 程序员
 
@@ -16,10 +16,10 @@ csp_enable: true
 read_mode: day
 
 # favicon
-favicon: /images/favicon.png
+favicon: /images/6040127.jpeg
 # unique avatar
 avatar_show: false
-avatar_image: /images/favicon.png
+avatar_image: /images/6040127.jpeg
 
 # Home page sort type: -1: newer first，1: older first.
 home_page_sort: -1
