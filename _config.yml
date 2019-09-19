@@ -50,8 +50,8 @@ left_nav_menus:
 
 
 # cover info config
-cover_title: 程序员啊
-cover_description: 就是程序员啊
+cover_title: Work on ...
+cover_description: Industrial Machine Learning Framework used in Meituan Inc. Applications of CTR, NLP, Graph Embedding, etc. on Advertisement System. Search & Recommendation System. ...
 
 # sns url
 sns:
