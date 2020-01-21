@@ -96,18 +96,18 @@ comments:
   enable: true
   disqus_shortname:
   gitment:
-    repo: gitment-comments
-    githubID: formath
-    ClientID: 638443fc1ea30f127294
-    ClientSecret: c953279208fec4497782e9a80c6d43d7dfdae12a
+    repo:
+    githubID:
+    ClientID:
+    ClientSecret:
     lazy: true
   gitalk:
-    on: false
-    owner: xx
-    repo: xx.github.io
-    admin: ['xxx']
-    clientID:
-    clientSecret:
+    on: true
+    owner: formath
+    repo: formath.github.io
+    admin: ['formath']
+    clientID: 53e23f9aa5f30e835d03
+    clientSecret: 7d93970c80bd5d7c92d8e60d6c9a0c4792419f3a
 
 # Git-pages server info (Coding Pages|Github Pages)
 server_name:
