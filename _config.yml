@@ -7,7 +7,7 @@ webmaster:
   name: formath
   avatar: /images/6040127.jpeg
   home: https://www.mathmach.com
-  desc: 程序员
+  desc: 搜索推荐系统&机器学习工程师
 
 # CSP Mode, true means #Content-Security-Policy = upgrade-insecure-requests# in meat tag
 csp_enable: true
@@ -40,7 +40,7 @@ site_building_time: 01/20/2018
 menu:
    技术: tech
    生活: life
-   其他: others
+   作者: author
 
 # Customize left navigation menus. faName is FontAwesome style name
 left_nav_menus:
