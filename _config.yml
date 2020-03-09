@@ -51,7 +51,7 @@ left_nav_menus:
 
 # cover info config
 cover_title: Work on ...
-cover_description: Industrial Machine Learning Framework used in Meituan Inc. CTR, NLP, Graph Embedding, etc. in Advertisement, Search and Recommendation Systems. ...
+cover_description: Distributed machine learning framework. Algorithm strategy in advertisement, search and recommendation systems.
 
 # sns url
 sns:
