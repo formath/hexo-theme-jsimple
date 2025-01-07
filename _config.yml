@@ -1,6 +1,6 @@
 # site name
-site_name: J.P.Liu
-short_name: J.P.Liu
+site_name: Blog
+short_name: Blog
 
 # Master info. It won't work if the one from (author|authorLink|avatar|authorDesc) be written in post.md
 webmaster:
@@ -51,7 +51,7 @@ left_nav_menus:
 
 # cover info config
 cover_title: 
-cover_description: 机器学习从业者
+cover_description: 算法从业者
 
 # sns url
 sns:
