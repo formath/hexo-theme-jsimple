@@ -38,8 +38,10 @@ site_building_time: 01/20/2018
 ## Name order decide show index.The name also called category alias,so you must set category alias before start server.
 ## BTW,'category_map' and 'tag_map' field in site '_config.yml' file must one to one correspondence with menus below.
 menu:
-   技术: tech
-   生活: life
+   大模型技术: llm
+   搜广推技术: search
+   机器学习框架: system
+   杂七杂八: other
    作者: author
 
 # Customize left navigation menus. faName is FontAwesome style name
